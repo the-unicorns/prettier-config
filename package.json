@@ -1,0 +1,27 @@
+{
+  "name": "@the-unicorns/prettier-shareable-config",
+  "version": "1.0.0",
+  "description": "Basic Prettier shareable config, for projects not using React",
+  "license": "MIT",
+  "main": "prettier.config.js",
+  "scripts": {
+    "test": "tape test/*.js",
+    "test:junit": "yarn test | tap-junit --output test-results -n result.xml"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/the-unicorns/prettier-shareable-config"
+  },
+  "author": "Hans Jakob Emmel",
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "prettier": ">=1.19.1"
+  },
+  "devDependencies": {
+    "prettier": "^1.19.1",
+    "tap-junit": "^3.1.0",
+    "tape": "^4.13.0"
+  }
+}
