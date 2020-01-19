@@ -1,5 +1,7 @@
 # The Unicorns Prettier Shareable Config React
 
+[![CircleCI](https://circleci.com/gh/the-unicorns/prettier-shareable-config.svg?style=svg)](https://circleci.com/gh/the-unicorns/prettier-shareable-config)
+
 A Prettier [Shareable Config](https://prettier.io/docs/en/configuration.html#sharing-configurations) for Javascript based projects
 
 ## Installation
