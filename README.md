@@ -1,6 +1,6 @@
 # The Unicorns Prettier Shareable Config React
 
-[![CircleCI](https://circleci.com/gh/the-unicorns/prettier-shareable-config.svg?style=svg)](https://circleci.com/gh/the-unicorns/prettier-shareable-config)
+[![CircleCI](https://circleci.com/gh/the-unicorns/prettier-config.svg?style=svg)](https://circleci.com/gh/the-unicorns/prettier-config)
 
 A Prettier [Shareable Config](https://prettier.io/docs/en/configuration.html#sharing-configurations) for Javascript based projects
 
@@ -19,16 +19,16 @@ Peer dependencies need to be installed in order to make it work properly
 After that you should install the plugin without any problem
 
 ```bash
-yarn add -D @the-unicorns/prettier-shareable-config
+yarn add -D @the-unicorns/prettier-config
 ```
 
 ## Usage
 
-Once the `@the-unicorns/prettier-shareable-config` package is installed, you can use it by specifying `@the-unicorns/prettier-shareable-config` in the your `.prettierrc` file.
+Once the `@the-unicorns/prettier-config` package is installed, you can use it by specifying `@the-unicorns/prettier-config` in the your `.prettierrc` file.
 
 ```js
 module.exports = {
-  ...require("@the-unicorns/prettier-shareable-config"),
+  ...require("@the-unicorns/prettier-config"),
   semi: false
 };
 ```
@@ -41,7 +41,7 @@ Please make sure to update tests as appropriate.
 
 ## Contributors
 
-- [View Contributors](https://github.com/the-unicorns/prettier-shareable-config/graphs/contributors)
+- [View Contributors](https://github.com/the-unicorns/prettier-config/graphs/contributors)
 
 ## License
 

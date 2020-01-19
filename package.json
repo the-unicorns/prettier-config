@@ -1,5 +1,5 @@
 {
-  "name": "@the-unicorns/prettier-shareable-config",
+  "name": "@the-unicorns/prettier-config",
   "version": "1.0.1",
   "description": "Basic Prettier shareable config, for projects not using React",
   "license": "MIT",
