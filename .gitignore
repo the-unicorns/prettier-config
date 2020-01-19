@@ -1,0 +1,30 @@
+# IntelliJ
+out/
+.idea
+
+# Node.js Tools for Visual Studio
+.ntvs_analysis.dat
+
+### Node template
+# Logs
+logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Yarn Integrity file
+.yarn-integrity
+
+# parcel-bundler cache (https://parceljs.org/)
+.cache
+dist
+
+### macOS template
+.DS_Store
+
+# project specifics
+test-results/
