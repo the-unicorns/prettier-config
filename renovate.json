@@ -1,0 +1,9 @@
+{
+  "extends": [
+    "config:base",
+    ":masterIssueApproval",
+    ":labels(renovate, dependencies)",
+    ":assignee(hjemmel)",
+    "group:linters"
+  ]
+}
