@@ -1,6 +1,6 @@
 {
-  "name": "@the-unicorns/prettier-shareable-config",
-  "version": "1.0.1",
+  "name": "@the-unicorns/prettier-config",
+  "version": "1.0.2",
   "description": "Basic Prettier shareable config, for projects not using React",
   "license": "MIT",
   "main": "prettier.config.js",
