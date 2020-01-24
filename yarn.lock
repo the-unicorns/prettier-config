@@ -229,7 +229,7 @@ path-parse@^1.0.6:
   resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
   integrity sha512-GSmOT2EbHrINBf9SR7CDELwlJ8AENk3Qn7OikK4nFYAu3Ote2+JYNVvkpAEQm3/TLNEJFD/xZJjzyxg3KBWOzw==
 
-prettier@^1.19.1:
+prettier@1.19.1:
   version "1.19.1"
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-1.19.1.tgz#f7d7f5ff8a9cd872a7be4ca142095956a60797cb"
   integrity sha512-s7PoyDv/II1ObgQunCbB9PdLmUcBZcnWOcxDh7O0N/UwDEsHyqkW+Qh28jW+mVuCdx7gLB0BotYI1Y6uI9iyew==
@@ -323,7 +323,7 @@ string_decoder@~1.0.0:
   dependencies:
     safe-buffer "~5.1.0"
 
-tap-junit@^3.1.0:
+tap-junit@3.1.0:
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/tap-junit/-/tap-junit-3.1.0.tgz#b47b64a2af286cb193f0763af004b7bfa317ef4e"
   integrity sha512-Qol3n4uvtBXy80LYQmjDKZQS1HvEmiBhx8H9E8ktkM5j0Pq6bw4xeRzS6nZ/65VJ8BmszorwWI+YBOB/0S0hLw==
@@ -342,7 +342,7 @@ tap-out@3.0.0:
     split "1.0.0"
     trim "0.0.1"
 
-tape@^4.13.0:
+tape@4.13.0:
   version "4.13.0"
   resolved "https://registry.yarnpkg.com/tape/-/tape-4.13.0.tgz#e2f581ff5f12a7cbd787e9f83c76c2851782fce2"
   integrity sha512-J/hvA+GJnuWJ0Sj8Z0dmu3JgMNU+MmusvkCT7+SN4/2TklW18FNCp/UuHIEhPZwHfy4sXfKYgC7kypKg4umbOw==
