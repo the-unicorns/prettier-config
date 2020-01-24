@@ -1,9 +1,11 @@
 {
   "extends": [
     "config:base",
+    ":masterIssue",
     ":masterIssueApproval",
     ":labels(renovate, dependencies)",
-    ":assignee(hjemmel)",
-    "group:linters"
-  ]
+    "group:monorepos",
+    "group:recommended",
+  ],
+  "masterIssueAutoclose": true
 }
