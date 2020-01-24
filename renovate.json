@@ -6,7 +6,7 @@
     ":labels(renovate, dependencies)",
     "group:monorepos",
     "group:recommended",
-    ":semanticCommits",
+    ":semanticCommits"
   ],
   "masterIssueAutoclose": true
 }
