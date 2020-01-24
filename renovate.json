@@ -5,7 +5,7 @@
     ":masterIssueApproval",
     ":labels(renovate, dependencies)",
     "group:monorepos",
-    "group:recommended",
+    "group:recommended"
   ],
   "masterIssueAutoclose": true
 }
