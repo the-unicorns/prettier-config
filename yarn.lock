@@ -182,7 +182,12 @@ minimatch@^3.0.4:
   dependencies:
     brace-expansion "^1.1.7"
 
-minimist@1.2.0, minimist@~1.2.0:
+minimist@1.2.5:
+  version "1.2.5"
+  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.5.tgz#67d66014b66a6a8aaa0c083c5fd58df4e4e97602"
+  integrity sha512-FM9nNUYrRBAELZQT3xeZQ7fmMOBg6nWNmJKTcgsJeaLstP/UODVpGsr5OhXhhXg6f+qtJ8uiZ+PUxkDWcgIXLw==
+
+minimist@~1.2.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.0.tgz#a35008b20f41383eec1fb914f4cd5df79a264284"
   integrity sha1-o1AIsg9BOD7sH7kU9M1d95omQoQ=
@@ -323,14 +328,14 @@ string_decoder@~1.0.0:
   dependencies:
     safe-buffer "~5.1.0"
 
-tap-junit@3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/tap-junit/-/tap-junit-3.1.0.tgz#b47b64a2af286cb193f0763af004b7bfa317ef4e"
-  integrity sha512-Qol3n4uvtBXy80LYQmjDKZQS1HvEmiBhx8H9E8ktkM5j0Pq6bw4xeRzS6nZ/65VJ8BmszorwWI+YBOB/0S0hLw==
+tap-junit@3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/tap-junit/-/tap-junit-3.1.2.tgz#f46f2ecb6840670784b18281c5da29f3c38b17a9"
+  integrity sha512-Wc7TL1/9aeH28QyWFzSyozUc5vjB6kN87FBAjgsNEPRD5LQA71BWV8+3emcPGeiwOE6/+hs6kRyaITmvisCCWg==
   dependencies:
-    minimist "1.2.0"
+    minimist "1.2.5"
     tap-out "3.0.0"
-    xmlbuilder "10.1.1"
+    xmlbuilder "15.1.0"
 
 tap-out@3.0.0:
   version "3.0.0"
@@ -383,7 +388,7 @@ wrappy@1:
   resolved "https://registry.yarnpkg.com/wrappy/-/wrappy-1.0.2.tgz#b5243d8f3ec1aa35f1364605bc0d1036e30ab69f"
   integrity sha1-tSQ9jz7BqjXxNkYFvA0QNuMKtp8=
 
-xmlbuilder@10.1.1:
-  version "10.1.1"
-  resolved "https://registry.yarnpkg.com/xmlbuilder/-/xmlbuilder-10.1.1.tgz#8cae6688cc9b38d850b7c8d3c0a4161dcaf475b0"
-  integrity sha512-OyzrcFLL/nb6fMGHbiRDuPup9ljBycsdCypwuyg5AAHvyWzGfChJpCXMG88AGTIMFhGZ9RccFN1e6lhg3hkwKg==
+xmlbuilder@15.1.0:
+  version "15.1.0"
+  resolved "https://registry.yarnpkg.com/xmlbuilder/-/xmlbuilder-15.1.0.tgz#4c4c9109180937baeb839978b590250be09a4aef"
+  integrity sha512-xae5hmPQnmSFhpiuV3NGXq+FWGOvWy/rIzxVLnRtSSABbPZWltTQCe6WlHDpCq5pGvnGwNsWnS1FdkW7Tx9FNQ==
