@@ -20,7 +20,7 @@
     "prettier": ">=1.19.1"
   },
   "devDependencies": {
-    "prettier": "1.19.1",
+    "prettier": "2.5.1",
     "tap-junit": "3.1.2",
     "tape": "5.3.1"
   }
